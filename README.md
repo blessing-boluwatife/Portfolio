@@ -1,8 +1,3 @@
-
-
-Raw File by Anietie Etuk.txt
- 
- 
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
