@@ -7,7 +7,6 @@ Hello! I'm George Blessing Boluwatife, a data analyst, passionate about using da
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Cleaning and Transformation.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -53,11 +52,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:blessinggeorge643@gmail.com">blessinggeorge643@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 816-496-8640</td>
     </tr>
     <tr>
       <td>📍</td>
